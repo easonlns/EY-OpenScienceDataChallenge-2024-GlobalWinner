@@ -26,19 +26,18 @@ We would like to thank:
 
 - **EY** for providing this incredible opportunity 💛.
 - The organizers and mentors at #IGARSS2024 🏛️ for their support and guidance.
-- Beatriz Sanz Saiz, Brian Killough, Borja Gonzalez Reguero, Saurabh Agarwal, Laura Turkington, Jacque Redus, Anna Biel, Tom Schoeters, and Piotr Lukaszewicz for making this an unforgettable experience.
 - All the judges for their valuable feedback.
 - The winners and finalists for their inspiring work.
 
 ## Team Members
 
-- **[Your Name]** - [Your Role]
-- **Aaron Sin** - [Role/Contribution]
-- **Ka Fai Chan** - [Role/Contribution]
+- **Eason Lau**
+- **Aaron Sin**
+- **Robert Chan**
 
 ## Contact
 
-If you have any questions or feedback, feel free to reach out to us at [your-email@example.com].
+If you have any questions or feedback, feel free to reach out to us at [easonlns0035@gmail.com].
 
 ## Hashtags
 
