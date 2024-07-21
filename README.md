@@ -6,7 +6,7 @@ This repository contains the results and code from our participation in the 2024
 
 ## Description
 
-In this challenge, our team developed a sophisticated approach to enhance coastal resilience using satellite imagery and AI techniques. Our solution involves data preprocessing, feature extraction, and the application of advanced algorithms to predict and mitigate the impacts of coastal hazards.
+In this challenge, our team developed a sophisticated approach to enhance coastal resilience using satellite imagery and YOLOv8 pre-trained model. Our solution involves data preprocessing, feature extraction, and the application of advanced algorithms to predict and mitigate the impacts of coastal hazards.
 
 The repository includes:
 
@@ -15,46 +15,6 @@ The repository includes:
 - **Results**: Outputs and visualizations from our analysis.
 
 Our goal is to contribute to the open science community by sharing our methodology, insights, and results. We hope that our work can inspire and assist others working on similar challenges.
-
-## Contents
-
-- [Data](data): Contains the raw and processed datasets used in our project.
-- [Scripts](scripts): Includes all the Python scripts for data handling, model building, and evaluation.
-- [Results](results): Stores the results of our analysis, including charts, graphs, and model outputs.
-
-## Installation
-
-To replicate our analysis, follow these steps:
-
-1. **Clone the repository**:
-
-    ```bash
-    git clone https://github.com/yourusername/competition-results.git
-    ```
-
-2. **Navigate into the directory**:
-
-    ```bash
-    cd competition-results
-    ```
-
-3. **Install the required dependencies**:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-## Usage
-
-1. **Run the analysis**:
-
-    ```bash
-    python scripts/analyze.py
-    ```
-
-2. **View the results**:
-
-    The results will be saved in the `results` directory and include various visualizations and model performance metrics.
 
 ## License
 
